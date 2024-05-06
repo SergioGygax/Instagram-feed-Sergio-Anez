@@ -1,0 +1,48 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: lightyellow;
+}
+
+.post{
+    text-align: center;
+    width: 50%;
+    margin: 1px black
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: skyblue;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.header h2 {
+    text-align: left;
+}
+
+.header {
+    text-align: right;
+}
+
+.body img {
+    width: 100%;
+}
+
+.body {
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+}
+ .footer {
+    background-color: white;
+ }
